@@ -3,7 +3,22 @@ guid: b70d26c829af1400489482e31aa1f669
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasicBandit_Body
+    second: {fileID: 2100000, guid: 26b4fb4246fe943e7ad7014acebb8d3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasicBandit_Cloth
+    second: {fileID: 2100000, guid: b9955eabab71846e9bd2807a501a4adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BasicBandit_EyeMAt
+    second: {fileID: 2100000, guid: b2b892536e5774a40b2b8f2c548db9ee, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
